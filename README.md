@@ -7,9 +7,9 @@ pencarian twitter berdaarkan email yang telah teregistrasi (hanya untuk kebutuha
 # bahan:
 python versi terbaru
 
-emaillist dengan kode (email:password) 
+emaillist
 
-selain dari diatas tidak aan diapprove
+selain dari diatas tidak akan diapprove
 
 
 # RUN:
